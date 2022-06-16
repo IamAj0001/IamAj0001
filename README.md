@@ -1,1 +1,1 @@
-Machines are better than humans :)
+While(!(Succeed=try()));
